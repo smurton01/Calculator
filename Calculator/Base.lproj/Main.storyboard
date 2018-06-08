@@ -41,7 +41,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tZU-1e-qdd">
                                         <rect key="frame" x="0.0" y="220" width="375" height="427"/>
                                         <subviews>
-                                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="ecr-lr-LMJ">
+                                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="ecr-lr-LMJ">
                                                 <rect key="frame" x="0.0" y="0.0" width="375" height="427"/>
                                             </stackView>
                                         </subviews>
