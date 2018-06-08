@@ -43,6 +43,11 @@
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="ecr-lr-LMJ">
                                                 <rect key="frame" x="0.0" y="0.0" width="375" height="427"/>
+                                                <subviews>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="vuM-1A-5Du">
+                                                        <rect key="frame" x="0.0" y="0.0" width="375" height="427"/>
+                                                    </stackView>
+                                                </subviews>
                                             </stackView>
                                         </subviews>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
